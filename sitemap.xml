@@ -2,9 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
+    <url>
+     <loc>/index.html</loc>
+     <lastmod>2018-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
         
     <url>
-     <loc>/test/index.html</loc>
+     <loc>/data_algorithms/index.html</loc>
      <lastmod>2018-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -14,7 +22,7 @@
     
         
     <url>
-     <loc>/test2/index2/index.html</loc>
+     <loc>/cplus/cplus_win/index.html</loc>
      <lastmod>2018-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
