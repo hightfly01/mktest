@@ -4,7 +4,7 @@
     
         
     <url>
-     <loc>/test/</loc>
+     <loc>/test/index.html</loc>
      <lastmod>2018-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -14,7 +14,7 @@
     
         
     <url>
-     <loc>/test2/index2/</loc>
+     <loc>/test2/index2/index.html</loc>
      <lastmod>2018-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
