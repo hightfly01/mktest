@@ -7,6 +7,14 @@ use_directory_urls: false
 docs_dir: 'docs'
 
 
+pages:
+- Home: 'index.md'
+- 数据结构与算法:
+    - '排序算法介绍': 'data_algorithms/index.md'
+- c++基础:
+    - 'c++环境搭建(Win)': 'cplus/cplus_win.md'
+
+
 
 # Repository
 repo_name: 'GitHub'
