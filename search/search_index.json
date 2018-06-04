@@ -11,7 +11,7 @@
             "title": "Home"
         },
         {
-            "location": "/data_algorithms/index.html",
+            "location": "/\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5/index.html",
             "text": "mkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.",
             "title": "\u6392\u5e8f\u7b97\u6cd5\u4ecb\u7ecd"
         },
